@@ -1,0 +1,45 @@
+td {
+    border-radius: 9px 9px 9px 9px;
+    color: darkblue;
+    background-color: rgb(221, 221, 221);
+    width: 90px;
+    height: 60px;
+    text-align: center;
+}
+th {
+    border-color: rgb(138, 163, 247);
+    border-radius: 9px 9px 9px 9px;
+}
+
+#specialname {
+    background-color: rgb(151, 151, 151);
+    font: bold;
+}
+
+#specialdata {
+    background-color: rgb(192, 192, 192);
+}
+
+#title {
+    background-color: rgb(138, 163, 247);
+    font: bold;
+}
+
+#name {
+    background-color: rgb(133, 131, 255)
+}
+
+#data {
+    background-color: lightblue;
+
+}
+
+.specialdata {
+    font: bold;
+    color: red;
+}
+
+.borderdefine {
+    border-spacing: 15px 15px;
+    border-collapse: separate;
+}
